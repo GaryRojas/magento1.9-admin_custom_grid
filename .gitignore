@@ -1,0 +1,8 @@
+app/etc/local.xml
+downloader/*
+media/*
+var/*
+includes/src/*
+.DS_Store
+/nbproject/
+.idea

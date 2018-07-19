@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Indus_Region>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Indus_Region>
+    </modules>
+</config>
